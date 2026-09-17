@@ -17,7 +17,7 @@ function login(username, password) {
     }
     
     // Đăng nhập thành công (Dùng cho Smoke Test)
-    if (username === 'admin' && password === '123') {
+    if (username === 'admin' && password === '999') {
         return true;
     }
     
